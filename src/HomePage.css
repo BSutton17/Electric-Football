@@ -1,6 +1,6 @@
 #wall{
     background-image: linear-gradient(135deg,#a4161a, #24125f);
-    height: 50rem;
+    height: 100vh;
     width: 100rem;
     margin: 0 auto;
     display: block;
