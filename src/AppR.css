@@ -1,0 +1,36 @@
+
+
+  #R_Full{
+    position: absolute;
+    height: 105rem;
+    width: 100rem;
+    left: 0rem;
+    bottom: 0rem;
+    background-color: #24125f ;
+  }
+  
+  #TeamName{
+    position: absolute;
+    text-wrap: nowrap;
+    bottom: 10rem;
+    left: 53rem;
+  }
+  #T-Text{
+    position: absolute;
+    text-wrap: nowrap;
+    bottom: 4.5rem;
+    left: 51rem;
+  }
+  .containerR{
+    color: #8E7831;
+    position: relative;
+    top: 3rem;
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    align-items: center;
+    max-height: 88vh;
+  }
+  
