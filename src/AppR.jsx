@@ -249,7 +249,7 @@ const AppR = () => {
           </div>
         </div>
         <Link to="/" className="Link2">
-          <button id="Home"> Home</button>
+          <button id="HomeR"> Home</button>
         </Link>
         <h2 id="T-Text">Toggle Delay</h2>
         <button
