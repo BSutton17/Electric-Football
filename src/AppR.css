@@ -34,3 +34,9 @@
     max-height: 88vh;
   }
   
+  #HomeR{
+    width: 10rem;
+    position: absolute;
+    bottom: 2em;
+    right: 50rem;
+  }
